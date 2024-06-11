@@ -8,8 +8,6 @@
 
 [Wireshark Sample Captures](https://wiki.wireshark.org/SampleCaptures?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk1700824391892) — репозиторий дампов сетевого трафика.
 
-Краткие руководства и примеры парсинга дампов сетевого трафика можно найти тут , вот тут и на русском вот еще тут .
-
 [Computer Forensic Reference Data Sets (CFReDS)](https://cfreds.nist.gov/?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk755921951952) — репозиторий образов для тренировки навыков криминалистической экспертизы.
 
 [Digital Forensics Tool Testing Images](https://dftt.sourceforge.net/?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk188980487988) — еще один архив снимков ФС.
