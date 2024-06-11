@@ -5,11 +5,12 @@
 https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk1133882927928
 
 
-Memory samples — набор дампов памяти от Windows до Linux с зашитыми в них артефактами. В качестве небольшого гайда — статья.
+Memory samples — набор дампов памяти от Windows до Linux с зашитыми в них артефактами. В качестве небольшого гайда — https://xakep.ru/2011/05/17/55689.
+http://www.p0wnlabs.com/free/forensics?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk1889804879880
 
 p0wnlabs Sample Challenges — набор свободно скачиваемых заданий на темы web sleuthing и deleted file recovery.
 
-Wireshark Sample Captures — репозиторий дампов сетевого трафика.
+[Wireshark Sample Captures](https://wiki.wireshark.org/SampleCaptures?_gclid=5b019913080993.15237019-5b0199130809e8.77445523&_utm_source=xakep&_utm_campaign=mention162978&_utm_medium=inline&_utm_content=lnk1700824391892) — репозиторий дампов сетевого трафика.
 
 Краткие руководства и примеры парсинга дампов сетевого трафика можно найти тут , вот тут и на русском вот еще тут .
 
